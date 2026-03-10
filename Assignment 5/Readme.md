@@ -9,7 +9,7 @@ This project allows users to quickly create digital notes on a web page, similar
 
 # 📸 Preview
 
-(Sticky.png)
+![Sticky Notes Preview](./sticky.png)
 
 
 
