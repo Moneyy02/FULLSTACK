@@ -1,44 +1,51 @@
 # 🎓 KCC Institute College Website
 
-![College Website Preview](./preview1.png)
+A modern **college landing page website** built using **HTML, CSS, and JavaScript** as part of a Full Stack Development assignment.
 
-## 📌 Project Overview
-
-This project is a **modern college website UI** built as part of a **Full Stack Development assignment**.
-
-The website represents **KCC Institute of Technology & Management** and includes a clean hero section, navigation bar, and key sections typically found on educational institution websites.
-
-The goal of this project was to practice **HTML, CSS, and JavaScript** by building a responsive and visually appealing landing page for a college.
+The website represents **KCC Institute of Technology & Management** and demonstrates a clean UI with modern web design principles.
 
 ---
 
-## 🚀 Features
+# 🚀 Features
 
-- 🎓 College Hero Section
-- 🧭 Responsive Navigation Bar
-- 🌙 Dark Mode Toggle
-- 📄 About Section
-- 🎓 Academics Section
-- 📬 Contact Section
-- 🔘 Call-to-Action Buttons
-- 📱 Responsive Layout
-
----
-
-## 🛠 Tech Stack
-
-- **HTML5**
-- **CSS3**
-- **JavaScript**
+- Modern **Hero Section**
+- Responsive **Navigation Bar**
+- **Dark Mode Toggle**
+- About College Section
+- Academic Programs Section
+- Contact Section
+- Clean UI Design
+- Responsive Layout
 
 ---
 
-## 📸 Website Preview
+# 🛠 Tech Stack
 
-Below is the preview of the homepage.
-
-![Website Screenshot](./preview1.png)
+- HTML5
+- CSS3
+- JavaScript
 
 ---
+
+# 📸 Website Preview
+
+## Hero Section
+
+![Hero Section](./hero.png)
+
+---
+
+## About Section
+
+![About Section](./about.png)
+
+---
+
+## Academics Section
+
+![Academics Section](./academics.png)
+
+---
+
 
 
