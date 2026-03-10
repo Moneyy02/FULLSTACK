@@ -46,10 +46,15 @@ Below is a preview of the portfolio homepage.
 
 Portfolio/
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── images/
+
 └── README.md
 
 
@@ -61,10 +66,10 @@ Portfolio/
 
 ```bash
 git clone https://github.com/Moneyy02/Portfolio.git
+,
 
+2️⃣ Open the project
 
-###2️⃣ Open the project
-
-###3️⃣ Run the project
+3️⃣ Run the project
 
 Simply open index.html in your browser.
