@@ -8,7 +8,7 @@ The application fetches weather data from a **Weather API** and dynamically upda
 
 ## 🖼️ Project Preview
 
-![Weather App Preview](./weather-app-preview)
+![Weather App Preview](./preview.png)
 
 ---
 
@@ -30,9 +30,9 @@ The application fetches weather data from a **Weather API** and dynamically upda
 - **JavaScript**
 - **Weather API**
 
----
 
-## 📂 Project Structure
+
+
 
 
 
