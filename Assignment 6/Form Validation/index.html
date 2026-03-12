@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Registration Form</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>Registration Form</h2>
+
+<form id="form">
+
+<label>Name</label>
+<input type="text" id="name">
+<span class="error" id="nameError"></span>
+
+<label>Email</label>
+<input type="text" id="email">
+<span class="error" id="emailError"></span>
+
+<label>Phone</label>
+<input type="text" id="phone">
+<span class="error" id="phoneError"></span>
+
+<label>Password</label>
+<div class="password-box">
+<input type="password" id="password">
+<button type="button" id="togglePassword">Show</button>
+</div>
+
+<div id="strength"></div>
+<span class="error" id="passwordError"></span>
+
+<br><br>
+<button type="submit">Register</button>
+
+</form>
+
+<script src="script.js"></script>
+
+</body>
+</html>
