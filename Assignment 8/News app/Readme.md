@@ -1,30 +1,37 @@
-📰 News App
+# 📰 News App
 
-A simple News Website built using HTML, CSS, and JavaScript that fetches real-time news articles using a public API.
-The application dynamically loads news cards including the title, image, summary, and article link.
+A simple **News Website** built using **HTML, CSS, and JavaScript** that fetches and displays the latest news articles dynamically using a public news API.
 
-🚀 Live Features
+The application demonstrates how to work with APIs and dynamically render content on a webpage using JavaScript.
 
-Fetches latest news using API
+---
 
-Displays news cards dynamically
+## 🖼️ Project Preview
 
-Shows news image, title, and description
+![News App Preview](./previeww.png)
 
-Read More button redirects to the full article
+---
 
-Responsive layout using CSS Grid
+## 🚀 Features
 
-Clean and minimal UI
+- 📰 Fetches **latest news articles using API**
+- 🖼️ Displays **news images**
+- 📝 Shows **news title and summary**
+- 🔗 **Read More** button redirects to the full article
+- ⚡ Dynamic content loading using **Fetch API**
+- 📱 Responsive **card-based layout**
 
-🖼️ Project Preview
+---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-HTML5
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Public News API**
 
-CSS3
+Modern web apps often use APIs to fetch data dynamically and update the UI without reloading the page. This project demonstrates the basic concept of API integration and dynamic content rendering in JavaScript. :contentReference[oaicite:1]{index=1}
 
-JavaScript (Fetch API)
+---
 
-Public News API
+## 📂 Project Structure
