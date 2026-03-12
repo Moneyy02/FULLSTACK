@@ -7,12 +7,6 @@ Form validation is an important concept in web development because it helps ensu
 
 ---
 
-## 🖼️ Project Preview
-
-![Form Validation Preview](./preview.png)
-
----
-
 ## 🚀 Features
 
 - 📋 User input form
